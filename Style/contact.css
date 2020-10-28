@@ -1,0 +1,22 @@
+form label {
+    display: block;
+}
+
+input, textarea {
+    padding: 5px;
+    margin-top: 4px;
+}
+
+button {
+    padding: 5px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
